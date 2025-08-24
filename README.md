@@ -4,3 +4,6 @@ yeah, basically it. i made this bc kde is a piece of shit and i couldn't change 
 # Usage:
 just type set-wallpaper /path/to/wallpaper.
 simple :D
+
+
+also, add set-wallpaper to /bin directory
